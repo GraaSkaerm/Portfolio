@@ -1,0 +1,26 @@
+.tile{
+    width: 25%;
+    height: 25%;
+    background-color: rgb(104, 104, 104);
+}
+
+.tile-snake {
+    width: 75%;
+    height: 75%;
+    background-color: #40c463;
+    box-shadow: 0px 0px 20px #40c463;
+}
+
+.tile-snake-body{
+    width: 75%;
+    height: 75%;
+    background-color: #2b8844;
+    
+}
+
+.tile-apple{
+    width: 75%;
+    height: 75%;
+    background-color: #c44052;
+    box-shadow: 0px 0px 20px #c44052;
+}

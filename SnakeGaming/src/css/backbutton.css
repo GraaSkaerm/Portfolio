@@ -1,0 +1,33 @@
+#exitS{
+    position: absolute;
+    /* padding-left: 1%;
+    padding-right: 1%;
+    padding-top: 1%;
+    padding-bottom: 1%; */
+    
+    left: 95vw;
+    top: 3vh;
+    /* border-radius: 3vmin;
+    font-size: 100%;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    background-color: grey; */
+    background: none;
+    box-shadow: 0px 0px 20px #9CDCDB;
+
+}
+
+.arrow:hover{
+    border-width: 0 5px 5px 0;
+}
+
+.arrow {
+    border: solid rgb(255, 0, 0);
+    border-width: 0 3px 3px 0;
+    display: inline-block;
+    padding: 3px;
+}
+.left {
+    transform: rotate(135deg);
+    -webkit-transform: rotate(135deg);
+}
