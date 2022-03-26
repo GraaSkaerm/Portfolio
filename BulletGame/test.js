@@ -1,0 +1,1 @@
+export const hegne = 123;
